@@ -114,7 +114,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(12, 260);
+            label4.Location = new Point(12, 239);
             label4.Name = "label4";
             label4.Size = new Size(208, 15);
             label4.TabIndex = 7;
@@ -123,7 +123,7 @@
             // pictureBox1
             // 
             pictureBox1.Image = Properties.Resources.keyBoard_Position;
-            pictureBox1.Location = new Point(13, 106);
+            pictureBox1.Location = new Point(12, 85);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(411, 151);
             pictureBox1.TabIndex = 8;
@@ -132,7 +132,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(13, 287);
+            label5.Location = new Point(12, 254);
             label5.Name = "label5";
             label5.Size = new Size(26, 15);
             label5.TabIndex = 9;
@@ -142,13 +142,14 @@
             // 
             textBox1.Location = new Point(325, 56);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(328, 23);
+            textBox1.Size = new Size(98, 23);
             textBox1.TabIndex = 0;
+            textBox1.Text = "Tester area";
             // 
             // checkBox1
             // 
             checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(430, 106);
+            checkBox1.Location = new Point(325, 31);
             checkBox1.Name = "checkBox1";
             checkBox1.Size = new Size(76, 19);
             checkBox1.TabIndex = 10;
@@ -159,7 +160,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(450, 274);
             Controls.Add(checkBox1);
             Controls.Add(textBox1);
             Controls.Add(label5);
@@ -173,7 +174,7 @@
             Controls.Add(label1);
             Controls.Add(AreaWidth);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Keyboard tablet driver";
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)AreaWidth).EndInit();
             ((System.ComponentModel.ISupportInitialize)AreaHeight).EndInit();

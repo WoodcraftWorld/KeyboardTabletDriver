@@ -20,7 +20,7 @@ namespace KeyboardTabletDriver
             int HeightOfKeyboardPicture = 144;
             int x = 0;
             int y = 0;
-            switch (KeyPress) // Fixed CS8515: Added parentheses around the switch governing expression  
+            switch (KeyPress) 
             {
                 case "Oem8":
                     x = 15;
@@ -223,7 +223,7 @@ namespace KeyboardTabletDriver
             return CallNextHookEx(hookId, nCode, wParam, lParam);
         }
 
-        // Windows API imports
+       
         private delegate IntPtr LowLevelKeyboardProc(int nCode, IntPtr wParam, IntPtr lParam);
 
         [DllImport("user32.dll", SetLastError = true)]

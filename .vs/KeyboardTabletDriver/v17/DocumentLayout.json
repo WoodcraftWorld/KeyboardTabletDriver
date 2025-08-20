@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\WoodcraftWorld\\source\\repos\\KeyboardTabletDriver\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1143E971-6200-4EF7-A2AA-6E9A25093D17}|KeyboardTabletDriver\\KeyboardTabletDriver.csproj|c:\\users\\woodcraftworld\\source\\repos\\keyboardtabletdriver\\keyboardtabletdriver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1143E971-6200-4EF7-A2AA-6E9A25093D17}|KeyboardTabletDriver\\KeyboardTabletDriver.csproj|solutionrelative:keyboardtabletdriver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1143E971-6200-4EF7-A2AA-6E9A25093D17}|KeyboardTabletDriver\\KeyboardTabletDriver.csproj|c:\\users\\woodcraftworld\\source\\repos\\keyboardtabletdriver\\keyboardtabletdriver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1143E971-6200-4EF7-A2AA-6E9A25093D17}|KeyboardTabletDriver\\KeyboardTabletDriver.csproj|solutionrelative:keyboardtabletdriver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1143E971-6200-4EF7-A2AA-6E9A25093D17}|KeyboardTabletDriver\\KeyboardTabletDriver.csproj|C:\\Users\\WoodcraftWorld\\source\\repos\\KeyboardTabletDriver\\keyboardtabletdriver\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1143E971-6200-4EF7-A2AA-6E9A25093D17}|KeyboardTabletDriver\\KeyboardTabletDriver.csproj|solutionrelative:keyboardtabletdriver\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1143E971-6200-4EF7-A2AA-6E9A25093D17}|KeyboardTabletDriver\\KeyboardTabletDriver.csproj|c:\\users\\woodcraftworld\\source\\repos\\keyboardtabletdriver\\keyboardtabletdriver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1143E971-6200-4EF7-A2AA-6E9A25093D17}|KeyboardTabletDriver\\KeyboardTabletDriver.csproj|solutionrelative:keyboardtabletdriver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1143E971-6200-4EF7-A2AA-6E9A25093D17}|KeyboardTabletDriver\\KeyboardTabletDriver.csproj|c:\\users\\woodcraftworld\\source\\repos\\keyboardtabletdriver\\keyboardtabletdriver\\keyboardtabletdriver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1143E971-6200-4EF7-A2AA-6E9A25093D17}|KeyboardTabletDriver\\KeyboardTabletDriver.csproj|c:\\users\\woodcraftworld\\source\\repos\\keyboardtabletdriver\\keyboardtabletdriver\\keyboardtabletdriver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1143E971-6200-4EF7-A2AA-6E9A25093D17}|KeyboardTabletDriver\\KeyboardTabletDriver.csproj|solutionrelative:keyboardtabletdriver\\keyboardtabletdriver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1143E971-6200-4EF7-A2AA-6E9A25093D17}|KeyboardTabletDriver\\KeyboardTabletDriver.csproj|c:\\users\\woodcraftworld\\source\\repos\\keyboardtabletdriver\\keyboardtabletdriver\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1143E971-6200-4EF7-A2AA-6E9A25093D17}|KeyboardTabletDriver\\KeyboardTabletDriver.csproj|solutionrelative:keyboardtabletdriver\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\WoodcraftWorld\\source\\repos\\KeyboardTabletDriver\\KeyboardTabletDriver\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "KeyboardTabletDriver\\Form1.Designer.cs",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\WoodcraftWorld\\source\\repos\\KeyboardTabletDriver\\KeyboardTabletDriver\\Program.cs",
               "RelativeDocumentMoniker": "KeyboardTabletDriver\\Program.cs",
@@ -75,49 +75,45 @@
               "RelativeToolTip": "KeyboardTabletDriver\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:42:22.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T17:42:22.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "KeyboardTabletDriver",
               "DocumentMoniker": "C:\\Users\\WoodcraftWorld\\source\\repos\\KeyboardTabletDriver\\KeyboardTabletDriver\\KeyboardTabletDriver.csproj",
               "RelativeDocumentMoniker": "KeyboardTabletDriver\\KeyboardTabletDriver.csproj",
               "ToolTip": "C:\\Users\\WoodcraftWorld\\source\\repos\\KeyboardTabletDriver\\KeyboardTabletDriver\\KeyboardTabletDriver.csproj",
               "RelativeToolTip": "KeyboardTabletDriver\\KeyboardTabletDriver.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-20T17:41:59.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T17:41:59.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "KeyboardTabletDriver",
+              "DocumentIndex": 7,
+              "Title": "KeyboardTabletDriver.csproj",
               "DocumentMoniker": "C:\\Users\\WoodcraftWorld\\source\\repos\\KeyboardTabletDriver\\KeyboardTabletDriver\\KeyboardTabletDriver.csproj",
               "RelativeDocumentMoniker": "KeyboardTabletDriver\\KeyboardTabletDriver.csproj",
               "ToolTip": "C:\\Users\\WoodcraftWorld\\source\\repos\\KeyboardTabletDriver\\KeyboardTabletDriver\\KeyboardTabletDriver.csproj",
               "RelativeToolTip": "KeyboardTabletDriver\\KeyboardTabletDriver.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-20T17:41:53.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T17:41:53.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\WoodcraftWorld\\source\\repos\\KeyboardTabletDriver\\KeyboardTabletDriver\\Form2.cs",
               "RelativeDocumentMoniker": "KeyboardTabletDriver\\Form2.cs",
               "ToolTip": "C:\\Users\\WoodcraftWorld\\source\\repos\\KeyboardTabletDriver\\KeyboardTabletDriver\\Form2.cs [Design]",
               "RelativeToolTip": "KeyboardTabletDriver\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:39:33.335Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-20T17:39:33.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\WoodcraftWorld\\source\\repos\\KeyboardTabletDriver\\KeyboardTabletDriver\\Form2.cs",
               "RelativeDocumentMoniker": "KeyboardTabletDriver\\Form2.cs",
@@ -125,25 +121,24 @@
               "RelativeToolTip": "KeyboardTabletDriver\\Form2.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAArwB8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:37:07.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T17:37:07.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\WoodcraftWorld\\source\\repos\\KeyboardTabletDriver\\KeyboardTabletDriver\\Form1.cs",
               "RelativeDocumentMoniker": "KeyboardTabletDriver\\Form1.cs",
               "ToolTip": "C:\\Users\\WoodcraftWorld\\source\\repos\\KeyboardTabletDriver\\KeyboardTabletDriver\\Form1.cs",
               "RelativeToolTip": "KeyboardTabletDriver\\Form1.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwDYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T16:58:07.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\WoodcraftWorld\\source\\repos\\KeyboardTabletDriver\\KeyboardTabletDriver\\Form1.cs",
               "RelativeDocumentMoniker": "KeyboardTabletDriver\\Form1.cs",
