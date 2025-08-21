@@ -8,7 +8,7 @@ You can run either from source or from the executable\
 [[Click here to build from source]](#building-keyboardtabletdriver) [[Click here to run the executable]](https://github.com/woodcraftworld/KeyboardTabletDriver/releases)
 
 ## YouTube video demonstration
-[![YouTube Video](https://woodcraftworld.github.io/unavailable.png)](https://youtube.com/watch)
+[![YouTube Video](https://markdown-videos-api.jorgenkh.no/youtube/POutw5yMi_Y)](https://www.youtube.com/watch?v=POutw5yMi_Y)
 ## IMPORTANT NOTES
 
 This software is only compatible with UK Compact layout as seen below.
