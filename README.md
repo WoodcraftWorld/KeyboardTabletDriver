@@ -5,7 +5,7 @@ A stupid piece of software for Windows that allows a keyboard to act kind of lik
 ## HOW TO RUN
 
 You can run either from source or from the executable\
-[[Click here to build from source]](https://github.com/woodcraftworld/KeyboardTabletDriver?tab=readme-ov-file#building-keyboardtabletdriver) [[Click here to run the executable]](https://github.com/woodcraftworld/KeyboardTabletDriver/releases)
+[[Click here to build from source]](#building-keyboardtabletdriver) [[Click here to run the executable]](https://github.com/woodcraftworld/KeyboardTabletDriver/releases)
 
 ## YouTube video demonstration
 [![YouTube Video](https://woodcraftworld.github.io/unavailable.png)](https://youtube.com/watch)
