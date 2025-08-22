@@ -11,8 +11,8 @@ You can run either from source or from the executable\
 [![YouTube Video](https://markdown-videos-api.jorgenkh.no/youtube/POutw5yMi_Y)](https://www.youtube.com/watch?v=POutw5yMi_Y)
 ## IMPORTANT NOTES
 
-This software is only compatible with UK Compact layout as seen below.
-Any other keyboard layout is likely to require code modifications.\
+This software is only compatible with UK Compact layout as seen below.\
+Other layouts might require code modifications to work correctly.\
 ![The only supported layout](https://i.imgur.com/AVA15KV.jpeg)
 
 ## Building KeyboardTabletDriver
